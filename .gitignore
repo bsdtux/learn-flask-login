@@ -1,0 +1,14 @@
+# Stop DB's from being committed
+*.sqlite
+*.sqlite3
+*.dat
+*.db
+
+# Keep editor data from being sent up
+.idea
+.vscode
+
+# Keep Enviornment files from ending up in repo
+.env
+.env.local
+.flaskenv
